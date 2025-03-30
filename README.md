@@ -25,7 +25,7 @@ Here's a quick overview of the servers I rely on daily:
 
 📸 *Here’s a snapshot of my current MCP server setup:*
 
-![MCP Server Setup](![image](https://github.com/user-attachments/assets/199c8c99-a7f8-4adb-9c46-db43c5455529))
+![MCP Server Setup]([![image.png](https://i.postimg.cc/g0QVtJk0/image.png)](https://postimg.cc/CZCnzw8y))
 
 ---
 
